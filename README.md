@@ -4,6 +4,13 @@ Python tools for decoding WiFi MAC frames from USRP B210 `sc16` IQ captures and 
 
 The project reads one or more raw WiFi channel captures, detects legacy 802.11 OFDM packets, extracts MAC-layer information, writes the decoded frame table to `output.xlsx`, and generates an interactive topology view as HTML.
 
+<img width="1912" height="922" alt="6437ec9b4847a3e404e08c299340fc08" src="https://github.com/user-attachments/assets/9f8ba45c-f209-4351-bb35-de8c6487444f" />
+
+<img width="1912" height="922" alt="d4a1e6353104f29a6f12545f127ee756" src="https://github.com/user-attachments/assets/9135baae-253e-4306-aae0-b1ac8e2770f1" />
+
+<img width="1912" height="922" alt="611e650d778c4fb7cdcde42dcdd1b4b3" src="https://github.com/user-attachments/assets/521418d2-cc36-432d-929d-60668f90b8eb" />
+
+
 ## Features
 
 - Decode USRP B210 complex `sc16` IQ recordings.
@@ -16,6 +23,14 @@ The project reads one or more raw WiFi channel captures, detects legacy 802.11 O
 - Generate 2D or 3D interactive topology HTML pages.
 - Use built-in Intel OUI prefixes for offline station vendor identification.
 - Use local router and laptop icons from `assets/` when available.
+
+
+  <img width="1595" height="435" alt="01_wifi_2g4_ch001_2412mhz_20msps_1s_rx2_sc16_waveform" src="https://github.com/user-attachments/assets/9deb445e-a44b-459b-8fd5-132c35a7952d" />
+
+<img width="1575" height="480" alt="cc_2d_21_e5_c1_a4_frame" src="https://github.com/user-attachments/assets/7d30cdf4-cf72-4871-8e94-cd3b3fac745a" />
+
+<img width="1575" height="480" alt="cc_2d_21_e5_c1_a4_timeline" src="https://github.com/user-attachments/assets/6d8d5d2c-a4dc-4db0-8f27-bcd68ca52a1f" />
+
 
 ## Repository Layout
 
