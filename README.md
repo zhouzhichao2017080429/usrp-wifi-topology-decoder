@@ -45,7 +45,7 @@ The minimal release package contains the Python decoder and an ADC-signal folder
 The Python program automatically parses the `.bin` signals under the ADC-signal folder. Because of file-transfer limits, only a few example captures are included in this repository. The complete capture set can be downloaded from Baidu Netdisk:
 
 ```text
-Baidu Netdisk link: to be added
+https://pan.baidu.com/s/1mOyiQMpmzp66i20ioPoepQ?pwd=9921
 ```
 
 After a successful run, the program outputs an Excel file and an HTML file. Open the generated HTML file in a browser to view the interactive WiFi topology visualization interface.
